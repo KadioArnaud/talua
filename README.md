@@ -1,2 +1,2 @@
 # talua
-Taluais a Unix-like computer operating system 
+Talua a Unix-like computer operating system 
